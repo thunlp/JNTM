@@ -1,0 +1,1 @@
+java -jar UserLSTM.jar -embeddingLength 50 -roundNum 5001 -probThreshold 0.001 -learningRate 0.1 -randomizeBase 0.02 -trainFile train.txt -testFile test.txt -locNum 50000 -userNum 10000 -netFile graph.txt -input_bias 0.2 -cand_bias 0 -forget_bias 0.5
