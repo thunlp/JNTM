@@ -1,5 +1,5 @@
 ## JNTM
-code for ACM TOIS paper "A Neural Network Approach to Joint Modeling Social Networks and Mobile Trajectories".
+Source code for ACM TOIS 2017 paper "A Neural Network Approach to Joint Modeling Social Networks and Mobile Trajectories".
 
 ### Description
 
