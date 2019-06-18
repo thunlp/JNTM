@@ -5,6 +5,9 @@ code for ACM TOIS paper "A Neural Network Approach to Joint Modeling Social Netw
 
 UserMain is the main body. NetworkModel handles the loss function of network structure and UserLSTM includes other parts (RNN, LSTM and fixed preference embedding).
 
+### Datasets
+The datasets used in this paper can be found at http://snap.stanford.edu/data/index.html#locnet.
+
 ### Input format
 
 train, test: Each line contains a user id followed by a sequence of locations ids.
